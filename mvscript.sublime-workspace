@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"info",
+				"infoWindow"
+			],
+			[
+				"defau",
+				"defaultView\t: WindowProxy Document"
+			],
+			[
+				"onmous",
+				"onmouseout\tAttr"
+			],
+			[
+				"getel",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"document",
+				"documentElement\t: Element Document"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"audioin",
+				"audioInLevel"
+			],
+			[
+				"mod",
+				"modalLoading"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"enu",
+				"enumerateDevices"
+			],
+			[
+				"med",
+				"mediaDevices"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ship",
+				"shippingData"
+			],
+			[
+				"block",
+				"inline-block\tdisplay"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"sett",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"pric",
+				"priceData"
+			],
+			[
+				"qua",
+				"quantityData"
+			],
+			[
+				"cal",
+				"calculator"
+			],
+			[
+				"calcu",
+				"calculator"
+			],
+			[
+				"app",
+				"apply\t( thisArg: any, argArray: Array ): any Function"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"prid",
+				"pricedata"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"priceda",
+				"pricedata1"
+			],
+			[
+				"calc",
+				"calcsection"
+			],
+			[
+				"price",
+				"priceSection"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"val",
+				"valuEnter2"
+			],
+			[
+				"valu",
+				"valuEnter3"
+			],
+			[
+				"ko",
+				"ko.o\tknockoutjs observable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"wa",
+				"Wallaby.js: Start"
+			],
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/skarki/Desktop/Map/start.html",
+		"/C/Users/skarki/Desktop/movescript/js/spirit.js",
+		"/C/Users/skarki/Desktop/movescript/css/spirit.css",
+		"/C/Users/skarki/Desktop/movescript/start.html",
+		"/C/Users/skarki/Desktop/movescript/mvscript.sublime-project",
+		"/C/Users/skarki/Downloads/radhtml/default.aspx",
+		"/C/Users/skarki/Downloads/radhtml/test.aspx",
+		"/C/Users/skarki/Downloads/radhtml/RadHtmlChart-drilldown.aspx",
+		"/c/xampp/htdocs/audio/index.html",
+		"/c/xampp/htdocs/audio/js/WebAudioRecorder.js",
+		"/c/xampp/htdocs/audio/js/recorder.js",
+		"/c/xampp/htdocs/audio/record.html",
+		"/c/xampp/htdocs/audio/css/file.css",
+		"/C/xampp/htdocs/audio/myfile.html",
+		"/c/xampp/htdocs/audio/myfile.html",
+		"/c/xampp/htdocs/audio/js/WebAudioRecorderMp3.js",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-push.html",
+		"/c/xampp/htdocs/audio/_index.html",
+		"/c/xampp/htdocs/audio/js/index.html",
+		"/C/Users/skarki/Desktop/voice/index.html",
+		"/C/xampp/htdocs/audio/index.html",
+		"/C/xampp/htdocs/audio/audiorecord.sublime-project",
+		"/C/Users/skarki/Desktop/calculator/Calculator.html",
+		"/C/xampp/htdocs/audio/js/WebAudioRecorder.js",
+		"/C/xampp/htdocs/audio/WebAudioRecorder.js",
+		"/C/Users/skarki/Desktop/audio/index.html",
+		"/C/Users/skarki/Desktop/audio/WebAudioRecorder.js",
+		"/C/Users/skarki/Desktop/audio/js/recorder.js",
+		"/C/xampp/htdocs/audio/css/audio.css",
+		"/E/Myfile/calculator/js/jquery.abacus.min.js",
+		"/E/Myfile/calculator/Calculator.html",
+		"/C/Users/skarki/Desktop/calculator/Calculator.sublime-project",
+		"/C/Users/skarki/Desktop/calculator/jquery.calculator.css",
+		"/C/Users/skarki/Desktop/calculator/jquery.calculator.js",
+		"/C/Users/skarki/Desktop/calculator/jcalculator.css",
+		"/C/Users/skarki/Desktop/calculator/portion.html",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/sublime/Data/Packages/Git/Git.sublime-settings",
+		"/C/Users/skarki/AppData/Local/Temp/Temp1_jquery.calculator.package-2.0.1 (1).zip/calculatorBasic.html",
+		"/C/Users/skarki/Documents/a",
+		"/C/sublime/Data/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/sublime/Data/Packages/User/View In Browser.sublime-settings",
+		"/C/sublime/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/skarki/Desktop/calculator/finalcalc.html",
+		"/C/Users/skarki/Desktop/calculator/calculator-icon.png",
+		"/C/Users/skarki/Desktop/calculator/finalcalc",
+		"/C/Users/skarki/Desktop/knock1.html",
+		"/C/Users/skarki/Desktop/portion2.html",
+		"/C/Users/skarki/Desktop/portion.html",
+		"/C/Users/skarki/Desktop/calculator/keith.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pie",
+			"first_stack_bar_chart",
+			"debugger",
+			"destination",
+			"star",
+			"recorder.wav",
+			"saveRecording",
+			"stop",
+			"start",
+			"img",
+			"gain",
+			"audioInLevel",
+			"start",
+			"processor",
+			"delete",
+			"dark",
+			"body",
+			"audioInLevel",
+			"stop",
+			"timeDisplay",
+			"start",
+			">\n",
+			"d-none",
+			"onChangeAudioIn",
+			"onGotAudioIn",
+			"onChangeAudioIn",
+			"onGotAudioIn",
+			"audioInSelect",
+			"onGotAudioIn",
+			"audioInLevel",
+			"debugger",
+			"onEncoderLoading",
+			"encoding",
+			"debugger",
+			"timeLimit",
+			"reportInterval",
+			"encodingProcess",
+			"$bufferSize",
+			"$encoding",
+			"\"$encoding\"",
+			"$encoding",
+			"testToneLevel",
+			"$testToneLevel",
+			"$echocancellation",
+			"$echo-cancellation",
+			"%echo-cancellation",
+			"echo-cancellation",
+			"osc",
+			" $audioInSelect",
+			"audioInSelect",
+			"options",
+			"convert",
+			"();",
+			"self",
+			"loaddata",
+			"self",
+			"_mainDivClass",
+			"use",
+			"showformula",
+			"sampleProductCategories"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hidden",
+			"this"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.wallabyjs":
+	{
+		"height": 0.0
+	},
+	"output.wallabyjs_console":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mvscript.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

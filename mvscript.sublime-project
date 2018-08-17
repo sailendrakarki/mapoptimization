@@ -1,0 +1,10 @@
+{
+	"settings":
+	{
+		"sublime-view-in-browser":
+		{
+			"basePath": "c://xampp//htdocs//audio",
+			"baseUrl": "http://localhost:8080"
+		}
+	}
+}

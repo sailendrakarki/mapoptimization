@@ -1,0 +1,17 @@
+#mapfunction{
+	border-style:solid;
+	border-width: 2px; 
+}
+
+.row{
+	padding: 20px; 
+	border-width: 2px;
+	border-style: solid;
+}
+#businessMap {
+        height: 400px;
+       
+}
+.input-group{
+	margin: 10px 0 10px 0 ;
+}
